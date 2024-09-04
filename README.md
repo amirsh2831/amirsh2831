@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Front-End Developer<br>🍀 I work with Next.js, Tailwind CSS, React.js, and more ...<br>👨‍🏭 I am currently working on projects with Next.js<br>📧 Find me on Instagram  (@amir.sh2831) or <br>on Telegram (@Nate_f28) to chat<br>✅ Check out my projects to see how I do it
+🔭 I am a Front-End Developer<br>🍀 I work with Next.js, Tailwind CSS, React.js, and more ...<br>👨‍🏭 I am currently working with Next.js<br>📧 Find me on Instagram  (@amir.sh2831) or <br>on Telegram (@Nate_f28) to chat<br>✅ Check out my projects to see how I do it
 
 
 ## 🌐 Socials:
